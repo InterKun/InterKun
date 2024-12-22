@@ -1,5 +1,5 @@
-### Hi there, I'm Ronggeng 👋
-# Welcome to my Github profile!
+# Hi there, I'm Ronggeng 👋
+## Welcome to my Github profile!
 ## Programming Projects:
 ## 📫 How to reach me:
 - Email: rq2105@nyu.edu
